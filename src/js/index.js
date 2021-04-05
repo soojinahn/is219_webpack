@@ -42,7 +42,6 @@ function generateTableHead(table, data) {
 function generateTable(table, data) {
     for (let element of data) {
         let row = table.insertRow();
-        console.log(element);
         let key;
         for (key in element) {
             let cell = row.insertCell();
