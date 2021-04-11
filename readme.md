@@ -24,3 +24,20 @@ Turn on github pages and put a link to your site in the readme when you turn in 
 Working site here:
 
 http://www.webizly.com/BasicWebPack/
+
+SCREENSHOTS:
+
+1. Creating MyNewCity
+![1](https://user-images.githubusercontent.com/68924449/114292573-6742d000-9a5d-11eb-8d9e-a9b6801031fc.PNG)
+
+![NewCityAdded](https://user-images.githubusercontent.com/68924449/114292594-893c5280-9a5d-11eb-8c46-0cc01cbf6778.PNG)
+*MyNewCity added
+
+2. Deleting MyNewCity
+![2](https://user-images.githubusercontent.com/68924449/114292602-9e18e600-9a5d-11eb-9070-d9b68ba1dc04.PNG)
+
+3. Updating Tokyo
+![3](https://user-images.githubusercontent.com/68924449/114292610-ab35d500-9a5d-11eb-8d34-4ea3e38dfb43.PNG)
+
+![UpdatedTokyo](https://user-images.githubusercontent.com/68924449/114292616-af61f280-9a5d-11eb-8872-6075dec8ae57.PNG)
+*Tokyo updated
