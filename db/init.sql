@@ -1,7 +1,7 @@
 CREATE DATABASE citiesData;
 use citiesData;
 
-CREATE TABLE IF NOT EXISTS tblCitiesImport (
+CREATE TABLE IF NOT EXISTS tblCitiesImport(
     `id` int AUTO_INCREMENT,
     `fldName` VARCHAR(21) CHARACTER SET utf8,
     `fldLat` NUMERIC(6, 4),
